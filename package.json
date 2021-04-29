@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-bluetooth-print",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "Fork de BluetoothPrinter intentado adaptar a capacitor",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",

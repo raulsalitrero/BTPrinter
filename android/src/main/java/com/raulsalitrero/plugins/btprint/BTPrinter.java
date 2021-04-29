@@ -51,7 +51,7 @@ import static android.content.pm.PackageManager.PERMISSION_DENIED;
                 BTPrinter.FROM_FIND
         },
         permissionRequestCode = BTPrinter.REQUEST_ALL_PERMISSIONS,
-        permissions = {Manifest.permission.BLUETOOTH, Manifest.permission.BLUETOOTH_ADMIN, Manifest.permission.BLUETOOTH_PRIVILEGED, Manifest.permission.INTERNET}
+        permissions = {Manifest.permission.BLUETOOTH, Manifest.permission.BLUETOOTH_ADMIN, Manifest.permission.INTERNET}
 )
 public class BTPrinter extends Plugin {
 
